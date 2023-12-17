@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Kursovaya7",
+  "applicationTitle": "Kursovaya7",
+  "items": [
+    {
+      "link": null,
+      "menuName": "kursovaya7",
+      "caption": "Kursovaya7",
+      "title": "Kursovaya7",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya7-фотокиоск-l",
+          "menuName": null,
+          "caption": "Фотокиоск",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya7-печать-фото-l",
+          "menuName": null,
+          "caption": "Печать фото",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya7-оплата-l",
+          "menuName": null,
+          "caption": "Оплата",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

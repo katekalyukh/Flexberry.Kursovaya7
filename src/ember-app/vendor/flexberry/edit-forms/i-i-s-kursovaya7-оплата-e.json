@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Оплата",
+  "name": "IISKursovaya7ОплатаE",
+  "className": "ОплатаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya7-оплата",
+      "modelProjection": "ОплатаE"
+    }
+  ]
+}
